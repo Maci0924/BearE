@@ -2,4 +2,4 @@
 
 ## Let's load the required built-in libraries.
 
-![e_logo](../Images/e_logo.ico)
+![e_logo](../Images/Library.png)
