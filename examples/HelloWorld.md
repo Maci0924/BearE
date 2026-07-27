@@ -4,4 +4,4 @@
 
 ![e_logo](../Images/Library.png) This line loads the studio.j library. It allows your program to print text and read user input.
 
-![min](../Images/Min.png) And then this is the main.
+![min](../Images/Min2.png) And then this is the main.
