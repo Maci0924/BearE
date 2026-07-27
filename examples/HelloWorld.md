@@ -12,5 +12,7 @@
 <br>
 ---
 ![HelloWorld](../Images/hellorold.png) 
-### And that is the full hello world <br>
+### In this step, we use the `tascuF` function to print text to the console.
+
+## That is the Hello World! in BearE
 
