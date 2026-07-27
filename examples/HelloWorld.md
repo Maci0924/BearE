@@ -14,5 +14,5 @@
 ![HelloWorld](../Images/hellorold.png) 
 ### In this step, we use the `tascuF` function to print text to the console.
 
-## That is the Hello World! in BearE
+## Congratulations! You've created your first BearE program.
 
